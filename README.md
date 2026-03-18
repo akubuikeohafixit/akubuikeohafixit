@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Built With](https://img.shields.io/badge/built%20with-JS%20%7C%20HTML%20%7C%20CSS-orange)
 
-## Project info
+# 🚀 AKUBUIKEOHA FIXIT
 
-**URL**: https://lovable.dev/projects/3245e6a3-b030-45b9-b4b4-86e4a4f31bce
+Welcome to the official repository of **Akubuikeoha Fixit** — a growing platform combining **general merchandise, digital services, and crypto-enabled trading solutions**.
 
-## How can I edit this code?
+🌐 **Live Website:** [https://www.akubuikeohafixit.com](https://www.akubuikeohafixit.com)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🌍 About the Project
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3245e6a3-b030-45b9-b4b4-86e4a4f31bce) and start prompting.
+Akubuikeoha Fixit is built to simplify how people **buy, sell, and exchange value globally**.  
+We leverage **modern technology and digital finance** to remove barriers in international trade and enable seamless global transactions.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 💼 What We Offer
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🛒 General Merchandise (Online & Offline)  
+- 🌐 E-commerce Solutions  
+- 💳 Secure Digital Payments  
+- 🌍 Cross-border Transactions  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📈 Crypto & Trading Integration
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+We are expanding into **digital assets and financial technology**, including:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- ₿ Cryptocurrency awareness and adoption  
+- 💱 Exchange trading insights (Forex & Crypto)  
+- 🔐 Secure wallet and payment integration *(coming soon)*  
+- ⚡ Fast, borderless transactions powered by blockchain  
 
-# Step 3: Install the necessary dependencies.
-npm i
+Our mission is to bridge the gap between **traditional business and the future of finance**.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## ⚙️ Tech Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- HTML / CSS / JavaScript  
+- GitHub Pages  
+- *(Upcoming)* Crypto payment APIs & trading data integrations  
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📌 Roadmap
 
-## What technologies are used for this project?
+- ✅ Business Website Launch  
+- 🔄 E-commerce Integration *(in progress)*  
+- 🔜 Crypto Payment Gateway  
+- 🔜 Trading Dashboard & Market Insights  
+- 🔜 Mobile App Development  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📫 Contact
 
-## How can I deploy this project?
+- 📧 Email: amadikingsley463@yahoo.com  
+- 📞 Phone: +234 904 819 7005  
 
-Simply open [Lovable](https://lovable.dev/projects/3245e6a3-b030-45b9-b4b4-86e4a4f31bce) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🤝 Contributions
 
-Yes, you can!
+We welcome **developers, traders, and innovators** to collaborate.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+1. Fork the repository  
+2. Make improvements  
+3. Submit a pull request  
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🔥 Vision
+
+To build a **global digital marketplace** where goods, services, and financial assets can be exchanged **freely, securely, and without borders**.
